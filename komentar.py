@@ -4,10 +4,13 @@
 ini komentar
 buat lebih dari 1 baris
 """
+
 print("Jangan mengulangi kesalahan yang sama, karena masih banyak kesalahan lain yang bisa dicoba.")
+
 """
 print("Jangan mengulangi kesalahan yang sama, karena masih banyak kesalahan lain yang bisa dicoba.")
 """
+
 #nama
 print("Rakha")
 

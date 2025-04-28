@@ -1,12 +1,12 @@
 #ini cuma bisa satu baris
 
-""""
+"""
 ini komentar
 buat lebih dari 1 baris
 """
-print("suka tidur, makan, nonton, mandi.")
+print("Jangan mengulangi kesalahan yang sama, karena masih banyak kesalahan lain yang bisa dicoba.")
 """
-print("suka tidur, makan, nonton, mandi.")
+print("Jangan mengulangi kesalahan yang sama, karena masih banyak kesalahan lain yang bisa dicoba.")
 """
 #nama
 print("Rakha")

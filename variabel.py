@@ -8,7 +8,7 @@ namadepan = "Muhammad"
 namabelakang = "Rakha"
 print(namadepan + " " + namabelakang)
 
-namaDepan = input("Masukkan nama depan anda: ")
-namaBelakang = input("Masukkan nama belakang anda: ")
+Namadepan = input("Masukkan nama depan anda: ")
+Namabelakang = input("Masukkan nama belakang anda: ")
 umur = input("Masukkan umur anda: ")
-print("Nama saya " + namaDepan + " " + namaBelakang + " dan umur saya " + umur + " tahun.")
+print("Nama saya " + Namadepan + " " + Namabelakang + " dan umur saya " + umur + " tahun.")

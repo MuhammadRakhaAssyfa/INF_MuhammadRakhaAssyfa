@@ -4,7 +4,7 @@ if (nilai > 5):
     print("Lulus")
 else:
     print("Tidak Lulus")
-
+print()
 #Kondisi Elif
 nilai = int(input("Masukkan nilai [1-100]: "))
 if (nilai >= 80):

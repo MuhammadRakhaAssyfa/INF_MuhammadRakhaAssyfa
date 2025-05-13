@@ -1,6 +1,6 @@
-nama = input("Siapa namamu? ") #string
-umur = int(input("Berapa umurmu? ")) #integer
-tinggi = float(input("Berapa tinggi badanmu (meter)? ")) #float
+nama = input("Masukkan Nama : ") #string
+umur = int(input("Masukkan Umur : ")) #integer
+tinggi = float(input("Masukkan Tinggi Badan (meter) : ")) #float
                      
 print("\n--- DATA DIRI ---")
 print("Nama saya    :", nama, type(nama))
